@@ -12,3 +12,5 @@ Itens de Configuração:
 - Código Fonte;
 - Descrição do Banco de dados;
 - Manuais operacionais e de instalação.
+
+Teste 02
