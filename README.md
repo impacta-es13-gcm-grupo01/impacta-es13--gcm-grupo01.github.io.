@@ -1,4 +1,4 @@
-# impacta-es13-gcm-grupo01.github.io
+﻿# impacta-es13-gcm-grupo01.github.io
  Grupo do TCC
  \José
  \Ricardo
@@ -12,5 +12,3 @@ Itens de Configuração:
 - Código Fonte;
 - Descrição do Banco de dados;
 - Manuais operacionais e de instalação.
-
-Saiiii que é tua Tafarelllllllllllllll
