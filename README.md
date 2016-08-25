@@ -13,5 +13,5 @@
 - Descrição do Banco de dados;
 <<<<<<< HEAD
 - Manuais operacionais e de instalação.
-=======
+========
 - Manuais operacionais e de instalação.
