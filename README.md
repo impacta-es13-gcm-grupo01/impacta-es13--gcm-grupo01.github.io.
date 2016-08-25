@@ -1,4 +1,4 @@
-﻿# impacta-es13-gcm-grupo01.github.io
+# impacta-es13-gcm-grupo01.github.io
  Grupo do TCC
  \José
  \Ricardo	1600155
