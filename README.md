@@ -3,7 +3,7 @@
  \José
  \Ricardo	1600155
  \Eduardo
- \Pedro
+  \Pedro Prado
 
 #Itens de Configuração:
 
